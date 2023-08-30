@@ -1,0 +1,6 @@
+[umesimd]
+git-tree-sha1 = "4540a72bc1a7925bcb9526e2d81a1d10f319a42f"
+
+    [[umesimd.download]]
+    sha256 = "0f9143a6958ba2f07f9265744f228c98e488c52cc02d8515cded523fcc063adb"
+    url = "https://github.com/JuliaBinaryWrappers/umesimd_jll.jl/releases/download/umesimd-v0.8.1+0/umesimd.v0.8.1.any.tar.gz"
